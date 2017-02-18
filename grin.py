@@ -141,6 +141,8 @@ def default_options():
         before_context = 0,
         after_context = 0,
         show_line_numbers = True,
+      #Add by Jim Yin at 02/18/2017
+        use_color = False,
         show_match = True,
         show_filename = True,
         show_emacs = False,
